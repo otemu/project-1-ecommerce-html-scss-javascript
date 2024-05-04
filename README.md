@@ -8,7 +8,7 @@ please note all your code should go in the frontend folder, the backend part of 
 
 ### The Challenge:
 
-Details for the challenge are found in the word document `Shopping Website Challenge` at the root of the cloned project
+Details for the challenge are found in the word document `Shopping Website Challenge` at the root of this project.
 
 ### Getting Started:
 

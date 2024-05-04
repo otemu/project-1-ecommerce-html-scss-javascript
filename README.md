@@ -4,6 +4,11 @@
 
 Node.js and npm installed on your system.
 You can verify their installation by running `node -v` and `npm -v` in your terminal.
+please note all your code should go in the frontend folder, the backend part of the project is purely used so that you can connect to the api
+
+### The Challenge:
+
+Details for the challenge are found in the word document `Shopping Website Challenge` at the root of the cloned project
 
 ### Getting Started:
 
